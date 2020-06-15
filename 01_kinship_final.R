@@ -1,5 +1,4 @@
-#The purpose of this script is to estimate the kinship and genetic relationship
-#matrices as well as working SNP and sample set.
+#The purpose of this script is to estimate the kinship and genetic relationship matrices.
 
   #input:
     #worker_mvcall.phasedimputed.snp.gds
