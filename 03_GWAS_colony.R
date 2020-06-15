@@ -1,5 +1,4 @@
-#The purpose of this script is to conduct a genome wide association analysis of
-#the 2017 worker data set using minor allele frequency and colony phenotype.
+#The purpose of this script is to conduct a genome wide association analysis using per-colony phenotype and minor allele.
 
   #input:
     #worker_mvcall.phasedimputed.snp_subset.gds
