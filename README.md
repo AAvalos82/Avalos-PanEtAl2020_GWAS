@@ -2,13 +2,13 @@
 Repository containing raw code for kinship estimate and also individual-, and colony-level GWAS conducted in the Avalos &amp; Pan et al., 2020 study
 
 # File information
-01_kinship_final.R         
+01_kinship.R         
 - The purpose of this script is to estimate the kinship and genetic relationship matrices.
 
-02_GWAS_individual_final.R 
+02_GWAS_individual.R 
 - The purpose of this script is to conduct a genome wide association analysis of individual phenotype.
 
-03_GWAS_colony_final.R     
+03_GWAS_colony.R     
 - The purpose of this script is to conduct a genome wide association analysis using per-colony phenotype and minor allele.
 
 all210_idx.RDS             
