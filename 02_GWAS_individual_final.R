@@ -1,5 +1,4 @@
-#The purpose of this script is to conduct a genome wide association analysis 
-#of the 2017 worker data set focusing on individual phenotype
+#The purpose of this script is to conduct a genome wide association analysis of individual phenotype.
 
   #input:
     #worker_mvcall.phasedimputed.snp.gds
