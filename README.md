@@ -18,6 +18,6 @@ snpset.RDS
 - This is a file containing IDs of markers concordant between two independent variant-calling pipelines (see source publication for details).
 
 # Note
-In the code file: "worker_mvcall.phasedimputed.snp.gds" is referenced, this is a dataset file deposted in Dryad see:
+In the code file: "worker_mvcall.phasedimputed.snp.gds" is referenced, this is a dataset file deposted in Dryad, see:
 
 Avalos, Arián (2020), Genomic regions influencing aggressive behavior in honey bees are defined by colony allele frequencies, Dryad, Dataset, https://doi.org/10.5061/dryad.q573n5tg8
